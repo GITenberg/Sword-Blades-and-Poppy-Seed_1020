@@ -1,0 +1,27 @@
+_repo: Sword-Blades-and-Poppy-Seed_1020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowell, Amy
+    birthdate: 1874
+    deathdate: 1925
+    gutenberg_agent_id: '147'
+    url: http://www.gutenberg.org/2009/agents/147
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Lowell
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- !lcsh 'Imagist poetry'
+- GITenberg
+title: Sword Blades and Poppy Seed
+url: http://www.gutenberg.org/ebooks/1020
