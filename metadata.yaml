@@ -1,5 +1,8 @@
 _repo: Sword-Blades-and-Poppy-Seed_1020
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lowell, Amy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/147
     wikipedia: http://en.wikipedia.org/wiki/Amy_Lowell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1020#Sword-Blades-and-Poppy-Seed
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '1997-08-01'
 gutenberg_type: Text
